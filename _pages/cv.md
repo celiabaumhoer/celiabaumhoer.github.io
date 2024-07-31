@@ -11,36 +11,33 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Geography, Julius-Maximilians University Wuerzburg, Germany, 2021
+* M.S. in Geography (Environmental system in transition), University Bonn, 2017
+* B.S. in Physical Geography, Friedrich-Alexander-University Erlangen-Nürnberg, 2014
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* since 2020: Postdoctoral Researcher
+  * German Aerospace Center, Oberpfaffenhofen
+  * Scientific coordination of research projects
+  * Method development for high-volume EO data processing & machine learning applications
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2017 - 2020: Research Associate/PhD Student
+  * German Aerospace Center, Oberpfaffenhofen
+  * Deriving Antarctic glacier front dynamics from SAR data
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Spring 2017: Technical Employee, Customer Support
+  * European Space Imaging, Munich
   
-Skills
+Awards
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
+* 06/2023 Women Scientist of the Month, DLR Women Scientists' Network
+* 05/2023 [Helmut-Rott-Award](https://www.dlr.de/de/eoc/aktuelles/nachrichten/2023/eoc-wissenschaftlerin-mit-helmut-rott-preis-ausgezeichnet) for excellent dissertations in the field of remote sensing of the cryosphere 
+* 03/2023 [DLR Science Award 2022](https://event.dlr.de/awards/dlr-wissenschaftspreis/) for pioneering scientific work
+* 04/2022 [Helmholtz Doctoral Prize 2021](https://www.helmholtz.de/newsroom/artikel/promotionspreis-fuer-sechs-nachwuchstalente/) for excellent dissertations 
+* 10/2018 ASTO Aerospace Sponsorship Prize for excellent Ph.D. students 
+* 07/2014 DAAD RISE Scholarship, Internship at University of Louisiana at Lafayette, LA, USA
+  
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
@@ -59,6 +56,19 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Outreach and science communication
 ======
-* Currently signed in to 43 different slack teams
+* [Die Eiskönigin](https://open.spotify.com/episode/2AKC7LJSKDnznBpWkqRq9c?si=1b62d8d18cb44d), DLR Podcast Forschstellungsgespräch Folge #10. Dez 2023.  
+* [Warum die Arktis stärker als die Antarktis schmilzt](https://www.youtube.com/watch?v=do58vCyWpSc&t=6s), Klimawissen leicht gemacht: Forschende erklären, Helmholtz Klimainitiative, Nov 2023, Berlin, Germany. 
+* [Explainer video on IceLines](https://play.quickchannel.com/play/kjjjzyu), 2023
+* [Living Fact Sheet](https://livingfactsheets.smc.page/antarktis-im-klimawandel) “Antarktis im Klimawandel”, providing input and expert knowledge for the Science Media Center, Mar 2023
+* [Award video](https://play.quickchannel.com/play/5yi66u7) on Environmental drivers of circum-Antarctic glacier and ice shelf front retreat over the last two decades, Mar 2023  
+* [Befliegungskampagne auf dem Aletschgletscher](https://www.dlr.de/de/blog/archiv/2021/befliegungskampagne-auf-dem-aletschgletscher), DLR Blog, Sep 2021
+* [Befliegung des Aletschgletschers](https://www.hfsjg.ch/de/stiftung/showcase/2021-november/), High Altitude Research Stations Jungfraujoch & Gornergrat Show Case, Nov 2021
+
+
+Volunteering and interests
+======
+* Traditional Taekwondo, 2. Dan (black belt)
+* Trainer C Bergsteigen at German Alpine Club (DAV), teaching mountaineering courses & guiding glacier tours
+
