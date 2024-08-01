@@ -26,7 +26,7 @@ Work experience
   * German Aerospace Center, Oberpfaffenhofen
   * Deriving Antarctic glacier front dynamics from SAR data
 
-* Spring 2017: Technical Employee, Customer Support
+* spring 2017: Technical Employee, Customer Support
   * European Space Imaging, Munich
   
 Awards
