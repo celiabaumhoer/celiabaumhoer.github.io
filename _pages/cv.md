@@ -37,6 +37,16 @@ Awards
 * 04/2022 [Helmholtz Doctoral Prize 2021](https://www.helmholtz.de/newsroom/artikel/promotionspreis-fuer-sechs-nachwuchstalente/) for excellent dissertations 
 * 10/2018 ASTO Aerospace Sponsorship Prize for excellent Ph.D. students 
 * 07/2014 DAAD RISE Scholarship, Internship at University of Louisiana at Lafayette, LA, USA
+
+Outreach and science communication
+======
+* [Die Eiskönigin](https://open.spotify.com/episode/2AKC7LJSKDnznBpWkqRq9c?si=1b62d8d18cb44d), DLR Podcast Forschstellungsgespräch Folge #10. Dez 2023.  
+* [Warum die Arktis stärker als die Antarktis schmilzt](https://www.youtube.com/watch?v=do58vCyWpSc&t=6s), Klimawissen leicht gemacht: Forschende erklären, Helmholtz Klimainitiative, Nov 2023, Berlin, Germany. 
+* [Explainer video on IceLines](https://play.quickchannel.com/play/kjjjzyu), 2023
+* [Living Fact Sheet](https://livingfactsheets.smc.page/antarktis-im-klimawandel) “Antarktis im Klimawandel”, providing input and expert knowledge for the Science Media Center, Mar 2023
+* [Award video](https://play.quickchannel.com/play/5yi66u7) on Environmental drivers of circum-Antarctic glacier and ice shelf front retreat over the last two decades, Mar 2023  
+* [Befliegungskampagne auf dem Aletschgletscher](https://www.dlr.de/de/blog/archiv/2021/befliegungskampagne-auf-dem-aletschgletscher), DLR Blog, Sep 2021
+* [Befliegung des Aletschgletschers](https://www.hfsjg.ch/de/stiftung/showcase/2021-november/), High Altitude Research Stations Jungfraujoch & Gornergrat Show Case, Nov 2021
   
 Publications
 ======
@@ -56,16 +66,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Outreach and science communication
-======
-* [Die Eiskönigin](https://open.spotify.com/episode/2AKC7LJSKDnznBpWkqRq9c?si=1b62d8d18cb44d), DLR Podcast Forschstellungsgespräch Folge #10. Dez 2023.  
-* [Warum die Arktis stärker als die Antarktis schmilzt](https://www.youtube.com/watch?v=do58vCyWpSc&t=6s), Klimawissen leicht gemacht: Forschende erklären, Helmholtz Klimainitiative, Nov 2023, Berlin, Germany. 
-* [Explainer video on IceLines](https://play.quickchannel.com/play/kjjjzyu), 2023
-* [Living Fact Sheet](https://livingfactsheets.smc.page/antarktis-im-klimawandel) “Antarktis im Klimawandel”, providing input and expert knowledge for the Science Media Center, Mar 2023
-* [Award video](https://play.quickchannel.com/play/5yi66u7) on Environmental drivers of circum-Antarctic glacier and ice shelf front retreat over the last two decades, Mar 2023  
-* [Befliegungskampagne auf dem Aletschgletscher](https://www.dlr.de/de/blog/archiv/2021/befliegungskampagne-auf-dem-aletschgletscher), DLR Blog, Sep 2021
-* [Befliegung des Aletschgletschers](https://www.hfsjg.ch/de/stiftung/showcase/2021-november/), High Altitude Research Stations Jungfraujoch & Gornergrat Show Case, Nov 2021
-
 
 Volunteering and interests
 ======

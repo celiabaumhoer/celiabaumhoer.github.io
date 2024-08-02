@@ -9,5 +9,3 @@ venue: 'Remote Sensing'
 paperurl: 'https://doi.org/10.3390/rs11212529'
 citation: 'Baumhoer, C. und Dietz, A. und Kneisel, C. und Kuenzer, C. (2019): Automated Extraction of Antarctic Glacier and Ice Shelf Fronts from Sentinel-1 Imagery Using Deep Learning. Remote Sensing, 11 (21), 2529. https://doi.org/10.3390/rs11212529.'
 ---
-
-asrgasg
