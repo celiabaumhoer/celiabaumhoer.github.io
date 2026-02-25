@@ -42,6 +42,7 @@ Awards
 Outreach and science communication
 ======
 * [Neue Risiken für Bergsteiger: Der Klimawandel verändert den Alpintourismus](https://www.deutschlandfunk.de/neue-risiken-fuer-bergsteiger-der-klimawandel-veraendert-den-alpintourismus-100.html), Deutschlandradio, 18 Sep 2025.
+* [Forschung für den Bergsport: Hilfe aus dem All](https://www.alpenverein.de/panorama/2025_04), Panorama. Magazin des Deutschen Alpenvereins, Sep 2025.
 * [Was tun, wenn den Hütten das Wasser fehlt? Klimawandelfolgen in den Alpen](https://www.youtube.com/watch?v=pvvXuJkoeQE&t=1159s), Deutscher Alpenverein (DAV) Sep 2025.
 * [Fact Sheet: Fernerkundung in der Arktis](https://www.arctic-office.de/fileadmin/user_upload/www.arctic-office.de/PDF_uploads/Fact_Sheets/Factsheet_Fernerkundung_web_deutsch.pdf), German Arctic Office, Apr 2025.
 * [Die Eiskönigin](https://open.spotify.com/episode/2AKC7LJSKDnznBpWkqRq9c?si=1b62d8d18cb44d), DLR Podcast Forschstellungsgespräch Folge #10. Dez 2023.  
