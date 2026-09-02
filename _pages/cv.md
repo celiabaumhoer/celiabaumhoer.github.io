@@ -41,6 +41,9 @@ Awards
 
 Outreach and science communication
 ======
+* Frontline: Ticket to Antarctica, Documentary by vpro on Dutch NPO TV, April 2026.
+* FRONTIERS: Drifting in the Southern Ocean – In Pursuit of the Gigantic Iceberg A23a, Documentary on NHK WORLD-JAPAN TV, April 2026.
+* [Ground-based measurements supporting satellite data in East Antarctica](https://www.polar.se/en/news/2026/ground-based-measurements-supporting-satellite-data-in-east-antarctica/), Blog des Polarforskningssekretariatet, Jan 2026, 
 * [Neue Risiken für Bergsteiger: Der Klimawandel verändert den Alpintourismus](https://www.deutschlandfunk.de/neue-risiken-fuer-bergsteiger-der-klimawandel-veraendert-den-alpintourismus-100.html), Deutschlandradio, 18 Sep 2025.
 * [Forschung für den Bergsport: Hilfe aus dem All](https://www.alpenverein.de/panorama/2025_04), Panorama. Magazin des Deutschen Alpenvereins, Sep 2025.
 * [Was tun, wenn den Hütten das Wasser fehlt? Klimawandelfolgen in den Alpen](https://www.youtube.com/watch?v=pvvXuJkoeQE&t=1159s), Deutscher Alpenverein (DAV) Sep 2025.
@@ -53,8 +56,15 @@ Outreach and science communication
 * [Befliegungskampagne auf dem Aletschgletscher](https://www.dlr.de/de/blog/archiv/2021/befliegungskampagne-auf-dem-aletschgletscher), DLR Blog, Sep 2021
 * [Befliegung des Aletschgletschers](https://www.hfsjg.ch/de/stiftung/showcase/2021-november/), High Altitude Research Stations Jungfraujoch & Gornergrat Show Case, Nov 2021
   
+Engagement in the research system
+======
+* Editor for Environmental Data Science, Cambridge University Press, since Jan 2026
+* Editor for the special Issue “Focus on Machine Learning and AI in Arctic and Antarctic Research: Observation, Prediction, and Discovery” in “Machine Learning: Earth”, IOP Science, 2026
+* Chaired sessions on machine learning for the cryosphere since 2020 at EGU and IUGG
+
 Committee work
 ======
+* since 2025	Deputy Chairperson of the Institute Council, German Remote Sensing Data Center
 * since 2024	Steering committee of the IACS Working Group on the delineation of glaciers, ice sheets, and ice sheet basins 
 * since 2021	Member of the International Association of Cryospheric Sciences (IACS)
 * since 2020	Member of the Association of Polar Early Career Scientists (APECS)
@@ -89,6 +99,6 @@ Teaching
 
 Volunteering and interests
 ======
-* Traditional Taekwondo, 3. Dan (black belt)
+* Traditional Taekwondo, 3. Dan (black belt), weekly teaching responsibilities
 * Trainer B Hochtouren, Trainer C Bergsteigen at German Alpine Club (DAV), teaching mountaineering courses & guiding glacier tours
-* Training officer at DAV Garching
+* Training officer (Ausbildungsleitung) at DAV Garching
